@@ -1,3 +1,4 @@
+package com.arc.datastructures;
 
 public class LinkedList {
     Node head;

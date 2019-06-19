@@ -1,3 +1,5 @@
+package com.arc.array_lists_adhoc_two_pointers;
+
 import java.util.HashMap;
 
 public class twoSum {

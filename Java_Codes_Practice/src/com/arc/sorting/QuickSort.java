@@ -1,3 +1,5 @@
+package com.arc.sorting;
+
 public class QuickSort {
 
     public static void QSort(int[] arr){
@@ -6,7 +8,7 @@ public class QuickSort {
         QuickSort(arr, start, end);
     }
 
-    // QuickSort Method
+    // com.arc.sorting.QuickSort Method
     public  static void QuickSort(int[] arr, int start, int end){
         if(start <= end){
             int c = choosePivot(arr, start, end);
