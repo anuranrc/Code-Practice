@@ -1,2 +1,2 @@
-# Code-Practice
+# Code Practice
 Interview Coding Practice
